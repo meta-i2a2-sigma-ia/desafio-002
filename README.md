@@ -52,9 +52,9 @@ Desenvolver um agente inteligente com uso de LLM (Large Language Model) que resp
 
 | Pergunta                                      | Resposta (exemplo gerado)                                                                                                      |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Qual fornecedor tem a nota fiscal mais alta?  | O fornecedor com a nota fiscal mais alta é a CHEMYUNION LTDA, com um valor de R$ 1.292.418,75                      |
-| Qual CFOP foi mais utilizado?                 | O CFOP mais utilizado nas operações realizadas foi o 5102.                                                                     |
-| Qual estado concentrou o maior valor emitido? | O estado de São Paulo concentrou o maior valor de notas emitidas.                                                              |
+| Qual fornecedor tem a nota fiscal mais alta?  | O fornecedor com a nota fiscal mais alta é a CHEMYUNION LTDA, com um valor de R$ 1.292.418,75                                  |
+| Qual CFOP foi mais utilizado?                 | A operação realizada com o CFOP 5102 foi utilizada 20 vezes.                                                                   |
+| Qual estado concentrou o maior valor de notas recebidas? | O estado que concentrou o maior valor de notas recebidas foi o de São Paulo, com um total de R$ 15.683.768,31                  |
 | Qual item teve o maior volume total entregue em quantidade?    | O item que teve o maior volume total entregue em quantidade foi o HGC 4 Branco/Branco-300-CP, com um total de 66.000 unidades. |
 
 ---
