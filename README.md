@@ -1,5 +1,5 @@
 
-# Sigma2106 — Agente Autônomo para Análise de Notas Fiscais
+# DESAFIO 002 — Agente Autônomo para Análise de Notas Fiscais
 
 ## 🧠 Objetivo
 
